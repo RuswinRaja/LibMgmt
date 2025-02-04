@@ -113,18 +113,7 @@ li a {
   %>
 </ul>
 
-<form class="container" action="books.jsp" method="POST">
-        <label for="name">Name:</label>
-        <input type="text" id="name" name="name">
 
-        <label for="uname">Username:</label>
-        <input type="text" id="uname" name="uname">
-
-        <label for="passwd">Password:</label>
-        <input type="password" id="passwd" name="passwd">
-
-        <input type="submit" value="Login">
-    </form>
 
 </body>
 </html>
